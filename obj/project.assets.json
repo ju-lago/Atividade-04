@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\GIT\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\GIT\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\GIT\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\ATIVIDADE-04\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\GIT\\ATIVIDADE-05\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"

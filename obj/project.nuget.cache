@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FxZqQwX9dQY=",
+  "dgSpecHash": "0mkhOC6sEUI=",
   "success": true,
-  "projectFilePath": "C:\\GIT\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\GIT\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
